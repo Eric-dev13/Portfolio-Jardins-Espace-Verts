@@ -74,6 +74,10 @@ section:nth-of-type(7) {
   background-image: url("../images/amenagements/piscine/169.JPG");
 }
 
+li {
+  padding: 10px,50px;
+}
+
 
 
 
